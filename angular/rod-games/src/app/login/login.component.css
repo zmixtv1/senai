@@ -1,0 +1,49 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+    background: linear-gradient(to right, rgb(141, 0, 0), purple, rgb(0, 133, 82), rgb(141, 0, 0));
+
+    background-size: 800% auto;
+    animation: changeBackground 10s linear infinite;
+    height: 90vh;
+  }
+  
+  @keyframes changeBackground {
+    0% {
+      background-position: 0% 50%;
+    }
+  
+    25% {
+      background-position: 25% 50%;
+    }
+  
+    50% {
+      background-position: 50% 50%;
+    }
+  
+    75% {
+      background-position: 75% 50%;
+    }
+  
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+h2 {
+    text-align: center;
+}
+
+
+#section-login {
+    background-color: rgba(144, 52, 172, 0.911);
+    color: white;
+    height: 100%;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 30px 20px;
+    margin-top: 30px;
+    box-shadow: 3px 3px 8px rgba(174, 0, 255, 0.603);
+}
