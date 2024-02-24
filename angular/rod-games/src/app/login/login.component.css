@@ -7,7 +7,7 @@ main {
 
     background-size: 800% auto;
     animation: changeBackground 10s linear infinite;
-    height: 90vh;
+    height: 88.56vh;
   }
   
   @keyframes changeBackground {
