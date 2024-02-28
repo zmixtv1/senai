@@ -1,0 +1,4 @@
+ng serve - Roda a aplicação 
+
+npx json-server {nome do arquivo json} - Abri o arquivo json na aplicação 
+json-server --watch {nome do arquivo json} - Abri o arquivo json na aplicação 
