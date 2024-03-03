@@ -27,6 +27,7 @@ import { AtualizaProdutoComponent } from './restrito/atualiza-produto/atualiza-p
 import { CadastroProdutoComponent } from './restrito/cadastro-produto/cadastro-produto.component';
 import { ListaProdutoComponent } from './restrito/lista-produto/lista-produto.component';
 import { MenuProdutoComponent } from './restrito/menu-produto/menu-produto.component';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -54,6 +55,7 @@ import { MenuProdutoComponent } from './restrito/menu-produto/menu-produto.compo
     MatInputModule,
     MatMenuModule,
     MatToolbarModule,
+    HttpClientModule,
     RestritoRoutingModule
   ],
   providers: [],
