@@ -27,6 +27,13 @@
       "descricao": "jof",
       "foto": "banner1.PNG",
       "preco": 2000
+    },
+    {
+      "id": "0",
+      "produto": "jogo modificado",
+      "descricao": "Descricao do modificado",
+      "foto": "jogo1.PNG",
+      "preco": 548
     }
   ]
 }

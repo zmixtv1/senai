@@ -28,6 +28,7 @@ import { CadastroProdutoComponent } from './restrito/cadastro-produto/cadastro-p
 import { ListaProdutoComponent } from './restrito/lista-produto/lista-produto.component';
 import { MenuProdutoComponent } from './restrito/menu-produto/menu-produto.component';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -55,6 +56,8 @@ import { HttpClientModule } from '@angular/common/http';
     MatInputModule,
     MatMenuModule,
     MatToolbarModule,
+    FormsModule,
+    ReactiveFormsModule,
     HttpClientModule,
     RestritoRoutingModule
   ],
