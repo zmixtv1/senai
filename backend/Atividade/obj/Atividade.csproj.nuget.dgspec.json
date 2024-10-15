@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj": {}
+    "c:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj": {
+    "c:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "c:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj",
+        "projectPath": "c:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\obj\\",
+        "outputPath": "c:\\Users\\rodri\\Documents\\GitHub\\senai\\backend\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
